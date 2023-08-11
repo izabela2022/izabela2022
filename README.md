@@ -1,16 +1,13 @@
-### Hi there 👋
+### OLÁ, BEM-VINDO(A) AO MEU PERFIL 🍾
 
-<!--
-**izabela2022/izabela2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍Meu nome é Izabela Ribeiro;
 
-Here are some ideas to get you started:
+📍Sou aluna do [alura](https://www.alura.com.br/), estudante da 2ª série;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍Este espaço é dedicado para organizar e compartilhar meus projetos deenvolvidos;
+
+### QUER ENTRAR EM CONTATO? ENVIE-ME UM 📫
+### 📫 izabela.ribeiro@escola.pr.gov.br 
+### OU VIA INSTAGRAM @ribas.izaa__🤳
+
+![](https://media.tenor.com/C-9DMiROZ5wAAAAM/bart-simpson-like.gif)
